@@ -4,4 +4,4 @@
 - PLSA
 
 ## Language model
-# LSTM 
+- LSTM 
